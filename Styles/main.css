@@ -71,6 +71,7 @@ header {
 main {
 	display: flex;
 	padding: 0 1em 1em;
+    flex-direction: column-reverse;
 	& blockquote {
 		font-style: italic;
 		padding-left: 1em;
@@ -84,7 +85,6 @@ main {
 
 /* the styles for the section */
 section {
-	flex-basis: 75%;
 	padding-left: .5em;
     border-bottom: 2px solid var(--accent-color);
 
@@ -98,7 +98,6 @@ section {
 /* the styles for the aside */
 aside {
 	padding-right: .5em;
-    flex-basis: 25%;
 }
 
 /* the styles for the footer */
@@ -203,6 +202,7 @@ footer {
 
     /* the styles for the section */
     section {
+        flex-basis: 75%;
 
         & img {
             width: clamp(100px, 50%, 250px);
@@ -213,6 +213,38 @@ footer {
 
     /* the styles for the aside */
     aside {
+        flex-basis: 25%;
 
+    }
+}
+/* Hamburger Menu Media Query*/
+
+@media (max-width: 600px) {
+    .menu {
+        display: flex;
+        width: 100%;
+        position: relative;
+
+        & li {
+            flex-basis: 25%;
+            text-align: center;
+        }
+    }
+
+    .menu-btn {
+        display: none;
+        width: 100%;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        background-color: rgb(235, 236, 242);
+    }
+
+    .center {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
     }
 }

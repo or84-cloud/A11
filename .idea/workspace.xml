@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4343d1c-05b4-493e-a6af-a87f12e74c52" name="Changes" comment="Features: Footer change">
+    <list default="true" id="e4343d1c-05b4-493e-a6af-a87f12e74c52" name="Changes" comment="Features:Media tag needs more feayures">
       <change beforePath="$PROJECT_DIR$/Styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,7 @@
       <workItem from="1763500042326" duration="1650000" />
       <workItem from="1763521799076" duration="5679000" />
       <workItem from="1763612457494" duration="627000" />
-      <workItem from="1763613223981" duration="1976000" />
+      <workItem from="1763613223981" duration="5633000" />
     </task>
     <task id="LOCAL-00001" summary="Features: Initial Commit">
       <option name="closed" value="true" />
@@ -110,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763613282711</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Features:Media tag needs more feayures">
+      <option name="closed" value="true" />
+      <created>1763625481300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763625481300</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Features: Initial Commit" />
     <MESSAGE value="Features: Footer change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Features: Footer change" />
+    <MESSAGE value="Features:Media tag needs more feayures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Features:Media tag needs more feayures" />
   </component>
 </project>
