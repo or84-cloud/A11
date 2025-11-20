@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4343d1c-05b4-493e-a6af-a87f12e74c52" name="Changes" comment="Features: Initial Commit" />
+    <list default="true" id="e4343d1c-05b4-493e-a6af-a87f12e74c52" name="Changes" comment="Features: Footer change">
+      <change beforePath="$PROJECT_DIR$/Styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "or84-cloud"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;or84-cloud&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/or84-cloud/A11.git",
-    "accountId": "c2ca0bae-2c07-4674-ade7-9066ddad1462"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/or84-cloud/A11.git&quot;,
+    &quot;accountId&quot;: &quot;c2ca0bae-2c07-4674-ade7-9066ddad1462&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -74,6 +76,7 @@
       <workItem from="1763500042326" duration="1650000" />
       <workItem from="1763521799076" duration="5679000" />
       <workItem from="1763612457494" duration="627000" />
+      <workItem from="1763613223981" duration="1976000" />
     </task>
     <task id="LOCAL-00001" summary="Features: Initial Commit">
       <option name="closed" value="true" />
@@ -99,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763613086837</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Features: Footer change">
+      <option name="closed" value="true" />
+      <created>1763613282711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763613282711</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Features: Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Features: Initial Commit" />
+    <MESSAGE value="Features: Footer change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Features: Footer change" />
   </component>
 </project>

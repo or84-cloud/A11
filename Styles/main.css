@@ -86,6 +86,8 @@ main {
 section {
 	flex-basis: 75%;
 	padding-left: .5em;
+    border-bottom: 2px solid var(--accent-color);
+
 	& img {
 		width: clamp(100px, 50%, 250px);
 		float: right;
@@ -95,8 +97,8 @@ section {
 
 /* the styles for the aside */
 aside {
-	flex-basis: 25%;
 	padding-right: .5em;
+    flex-basis: 25%;
 }
 
 /* the styles for the footer */
@@ -135,7 +137,7 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	& li { 
-		flex-basis: 20%; 
+		flex-basis: 25%;
 		text-align: center;
 	}
 }
@@ -185,3 +187,32 @@ footer {
 .menu > li:first-child a { margin-left: 0; }
 .menu > li:last-child a { margin-right: 0; }
 
+@media (max-width: 600px){
+    main {
+        flex-direction: row;
+        & blockquote {
+            font-style: italic;
+            padding-left: 1em;
+        }
+        & h3 + img { /* speaker images */
+            width: clamp(40px, 50%, 75px);
+            border: 4px double var(--accent-color);
+            border-radius: 10px;
+        }
+    }
+
+    /* the styles for the section */
+    section {
+
+        & img {
+            width: clamp(100px, 50%, 250px);
+            float: right;
+            margin: 0 1em .25em;
+        }
+    }
+
+    /* the styles for the aside */
+    aside {
+
+    }
+}
