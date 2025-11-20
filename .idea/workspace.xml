@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4343d1c-05b4-493e-a6af-a87f12e74c52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/brancaccio75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/chua75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/sampson75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/sampson_dinosaur.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/sorkin75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/town_hall_logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Speakers/brancaccio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Speakers/chua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Speakers/sampson.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Speakers/sorkin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e4343d1c-05b4-493e-a6af-a87f12e74c52" name="Changes" comment="Features: Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "or84-cloud"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/or84-cloud/A11.git",
+    "accountId": "c2ca0bae-2c07-4674-ade7-9066ddad1462"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -75,11 +73,24 @@
       <workItem from="1763480198468" duration="4081000" />
       <workItem from="1763500042326" duration="1650000" />
       <workItem from="1763521799076" duration="5679000" />
-      <workItem from="1763612457494" duration="154000" />
+      <workItem from="1763612457494" duration="585000" />
     </task>
+    <task id="LOCAL-00001" summary="Features: Initial Commit">
+      <option name="closed" value="true" />
+      <created>1763612901549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763612901549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Features: Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Features: Initial Commit" />
   </component>
 </project>
