@@ -71,7 +71,6 @@ header {
 main {
 	display: flex;
 	padding: 0 1em 1em;
-    flex-direction: row;
 	& blockquote {
 		font-style: italic;
 		padding-left: 1em;
