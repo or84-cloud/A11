@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4343d1c-05b4-493e-a6af-a87f12e74c52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/brancaccio75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/chua75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/sampson75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/sampson_dinosaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/sorkin75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/town_hall_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speakers/brancaccio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speakers/chua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speakers/sampson.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speakers/sorkin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35ep3uitFPCLQxz4ybvfSRPbE34" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Styles" />
+      <recent name="$PROJECT_DIR$/Speakers" />
+      <recent name="$PROJECT_DIR$/Images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4343d1c-05b4-493e-a6af-a87f12e74c52" name="Changes" comment="" />
+      <created>1763480197444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763480197444</updated>
+      <workItem from="1763480198468" duration="4081000" />
+      <workItem from="1763500042326" duration="1650000" />
+      <workItem from="1763521799076" duration="5679000" />
+      <workItem from="1763612457494" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

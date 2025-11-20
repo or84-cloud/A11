@@ -71,6 +71,7 @@ header {
 main {
 	display: flex;
 	padding: 0 1em 1em;
+    flex-direction: row;
 	& blockquote {
 		font-style: italic;
 		padding-left: 1em;
@@ -184,3 +185,4 @@ footer {
 
 .menu > li:first-child a { margin-left: 0; }
 .menu > li:last-child a { margin-right: 0; }
+
